@@ -1,0 +1,26 @@
+quotes:
+“Be careful what you wish for. There’s always a catch.”
+aim high falling short > aim low and achieving the mark
+if not now, then when?
+if not you, then who?
+“People will forget what you said, people will forget what you did, but people will never forget how you made them feel.”
+
+good @ making friends not allies
+
+Management is doing things right; leadership is doing the right things.
+
+Hardware:
+  
+“Hardware: The parts of a computer system that can be kicked.”
+(Jeff Pesis) 
+  
+Software:
+  
+“Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.” (Alan Kay) 
+  
+“I’ve finally learned what ‘upward compatible’ means.  It means we get to keep all our old mistakes.” (Dennie van Tassel) 
+
+“First, solve the problem. Then, write the code.”
+
+“To iterate is human, to recurse divine.”
+
